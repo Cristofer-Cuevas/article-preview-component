@@ -8,4 +8,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## `Live`
 
-Link: [](https://article-preview-component-pink-six.vercel.app)
+Link: [Article Preview page](https://article-preview-component-pink-six.vercel.app)
